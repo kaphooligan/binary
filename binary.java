@@ -10,7 +10,7 @@ public class binary {
 		
 		do
 		{
-			System.out.println("enter a number in binary and I'll conert it");
+			System.out.println("enter a number in binary and I'll convert it");
 			try
 			{
 				
